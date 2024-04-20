@@ -1,1 +1,5 @@
+.git
+.env
 guac_venv
+guac/db.sqlite3
+guac/guac/__pycache__
